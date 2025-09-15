@@ -1,0 +1,1 @@
+{"saved_records": 2, "rejected_records": 2, "errors": [{"row": 2, "error": {"age": ["Age must be above 0 and below 120 "]}}, {"row": 4, "error": {"email": ["user with this email already exists."]}}]}
